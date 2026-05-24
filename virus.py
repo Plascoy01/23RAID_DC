@@ -14,7 +14,7 @@ import subprocess
 
 # Configurações
 PASSWORD = "218821ma"
-LOCK_SCREEN_MSG = "ABIDELTA\nVC FOI HACKEADO POR UNS DOS MAIORES GRUPOS DE HACK"
+LOCK_SCREEN_MSG = "PLASCOY\nVC voce foi molestado por plascoy"
 
 class AdvancedWindowsDisabler:
     def __init__(self):
