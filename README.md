@@ -4,7 +4,7 @@
 Este projeto é um simulador educacional de comportamento de malware, criado exclusivamente para estudos de cibersegurança em ambientes controlados.
 
 ❗ É um vírus real.
-❗ DICA NÃO executaR em máquinas pessoais ou sistemas de terceiros.
+❗ DICA NÃO executar em máquinas pessoais ou sistemas de terceiros.
 ❗ Uso indevido pode violar leis locais.
 
 ### 🎯 Objetivo do Projeto
